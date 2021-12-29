@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/video_streaming.png</file>
+    <file>icons/menu.png</file>
+    <file>icons/stop_video.png</file>
+    <file>icons/run_video.png</file>
+  </qresource>
+</RCC>
