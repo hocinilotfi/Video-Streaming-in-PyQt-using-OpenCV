@@ -1,0 +1,7 @@
+numpy==1.21.4
+opencv-python-headless==4.5.4.60
+pkg_resources==0.0.0
+PyQt5==5.15.6
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.9.0
+shiboken2==5.15.2
