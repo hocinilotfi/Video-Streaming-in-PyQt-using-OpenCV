@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '/home/lotfi/Documents/vs-code-projects/Video-Streaming-in-PyQt-uisng-OpenCV/video-streaming.ui'
+# Form implementation generated from reading ui file '/home/lotfi/Documents/vs-code-projects/Video-Streaming-in-PyQt-uisng-OpenCV/video_streaming.ui'
 #
 # Created by: PyQt5 UI code generator 5.15.2
 #
@@ -14,7 +14,7 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(779, 468)
+        MainWindow.resize(889, 572)
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap(":/icons/icons/video_streaming.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
         MainWindow.setWindowIcon(icon)
@@ -117,7 +117,6 @@ class Ui_MainWindow(object):
         self.frame.setStyleSheet("QPushButton:hover{\n"
 "\n"
 "background-color: rgb(59, 103, 128);\n"
-"border: 2px solid blue;\n"
 "border-radius: 7px;\n"
 "\n"
 "}")

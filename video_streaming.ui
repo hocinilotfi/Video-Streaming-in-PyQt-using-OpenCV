@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>779</width>
-    <height>468</height>
+    <width>889</width>
+    <height>572</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -214,7 +214,6 @@ color: #fff;
              <string notr="true">QPushButton:hover{
 
 background-color: rgb(59, 103, 128);
-border: 2px solid blue;
 border-radius: 7px;
 
 }</string>
